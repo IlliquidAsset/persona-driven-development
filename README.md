@@ -50,6 +50,14 @@ PDD inverts traditional software development. Instead of starting with requireme
 
 ---
 
+## The PDD Visual Summary
+
+![Persona-Driven Development Infographic](assets/pdd-infographic.png)
+
+*The infographic above illustrates the core PDD concept: treating software as clay and personas as molds to erase "happy path" bias. It visualizes the 15% corruption gap in legacy system integrations and how System Legends (high-fidelity personas) reduce data corruption to 0% by forcing AI to implement defensive programming patterns.*
+
+---
+
 ## What is SPDD (System Legends for Persona-Driven Development)?
 
 SPDD extends PDD by formalizing **System Legends** — the 5-dimensional depth profiles that make personas executable:
