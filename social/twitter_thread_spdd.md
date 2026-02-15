@@ -59,7 +59,7 @@ Stop treating your APIs like math problems. Start treating them like counter-par
 17/
 I’ve detailed the full SPDD methodology and the Legacy Ledger results in my latest piece. If you’re tired of "Happy Path" AI code, this is for you. 
 
-Read the full breakdown here: [LINK]
+Read the full breakdown here: https://github.com/IlliquidAsset/persona-driven-development
 
 18/
 What’s the "trauma" in your legacy stack that keeps breaking your AI integrations? Let’s discuss below. 👇 #AIdev

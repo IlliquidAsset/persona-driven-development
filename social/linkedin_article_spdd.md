@@ -123,7 +123,7 @@ It’s time we started building our software with that same level of pragmatism.
 
 ***
 
-*I’ve recently released a more technical academic paper detailing the SPDD framework and the Legacy Ledger experiment. You can find it here: [PAPER LINK]*
+*I’ve recently released a more technical academic paper detailing the SPDD framework and the Legacy Ledger experiment. You can find it here: https://github.com/IlliquidAsset/persona-driven-development/blob/main/paper/spdd-paper.md*
 
 *What are the "System Legends" in your organization? What’s the "Lie" your most critical API tells? Let’s discuss in the comments.*
 
