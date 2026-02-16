@@ -2,7 +2,7 @@
 
 > **"The Persona is the Mold. The Software is the Clay."**
 
-**Author:** Kendrick Kirk, MBA, CPEP, Managing Director Kirk+Co Advisory
+**Author:** Kendrick Kirk, Managing Director Kirk+Co
 
 **Connect:** [LinkedIn](https://linkedin.com/in/kkirk) | [X/Twitter](https://x.com/KendrickCreate_) | [GitHub](https://github.com/IlliquidAsset)
 
@@ -152,14 +152,14 @@ If you use PDD or SPDD in your work, please cite:
   title={Persona-Driven Development: Using System Legends as Executable Specifications},
   author={Kirk, Kendrick},
   year={2024},
-  organization={Kirk+Co Advisory}
+  organization={Kirk+Co}
 }
 
 @article{kirk2024spdd,
   title={SPDD: System Legends for Persona-Driven Development},
   author={Kirk, Kendrick},
   year={2024},
-  organization={Kirk+Co Advisory}
+  organization={Kirk+Co}
 }
 ```
 
