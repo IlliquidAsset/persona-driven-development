@@ -4,7 +4,7 @@
 
 **Author:** Kendrick Kirk, MBA, CPEP, Managing Director Kirk+Co Advisory
 
-**Connect:** [LinkedIn](https://linkedin.com/in/kkirk) | [X/Twitter](https://x.com/KendrickCreate_) | [GitHub](https://github.com/IlliquidAsset)
+**Connect:** [LinkedIn](https://linkedin.com/in/kkirk) | [X/Twitter](https://x.com/Kendrick_Create) | [GitHub](https://github.com/IlliquidAsset)
 
 ---
 
@@ -175,7 +175,7 @@ This work is provided as-is for educational and commercial use. Attribution to K
 
 Connect with Kendrick Kirk:
 - **LinkedIn:** [linkedin.com/in/kkirk](https://linkedin.com/in/kkirk)
-- **X/Twitter:** [@KendrickCreate_](https://x.com/KendrickCreate_)
+- **X/Twitter:** [@Kendrick_Create](https://x.com/Kendrick_Create)
 - **GitHub:** [github.com/IlliquidAsset](https://github.com/IlliquidAsset)
 
 ---
